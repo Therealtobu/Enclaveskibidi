@@ -1,4 +1,3 @@
--- This script was generated using the MoonVeil Obfuscator v1.4.5 [https://moonveil.cc]
 
 local Px,Mn,zs,Fj,Ww,Kt=pairs,getmetatable,type,bit32.bxor
 local Xy,ev,AF,Sv,su,ao,It,f_,jw,Xe,lc,IH,Xw,Lg,Db,Hv,Xx,Mq,mn,ir,hw,eG,tC,LA,qt;
